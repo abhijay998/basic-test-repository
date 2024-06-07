@@ -1,2 +1,2 @@
 # basic-test-repository
-This is a basic Flutter Android and IOS application
+this repositiry contains only some amazing html and css code.
