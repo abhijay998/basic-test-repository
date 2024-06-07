@@ -1,2 +1,2 @@
 # basic-test-repository
-this repositiry contains only some amazing dart code code.
+this repositiry contains only some amazing c++ code code.
